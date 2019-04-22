@@ -1,0 +1,37 @@
+
+==================SPOTIFY LOG ENTRY================
+Time of Log: Sunday, 04/21/2019, 22:21 PM
+NODE COMMAND ACTION: node spotify-this / hello
+Song Title: Hello
+Artist(s): Various Artists
+Link: https://api.spotify.com/v1/tracks/3cpdOEzOQHHYClPyCLc1Y5
+Album: Pyaar Prema Kaadhal (Original Motion Picture Soundtrack)
+_________________________________________
+Time of Log: Sunday, 04/21/2019, 22:21 PM
+NODE COMMAND ACTION: node spotify-this / hello
+Song Title: Hello Hello
+Artist(s): D. Imman
+Link: https://api.spotify.com/v1/tracks/6LXu7ZD3tF44X9VhoZaQjR
+Album: Valiyavan (Original Motion Picture Soundtrack)
+_________________________________________
+Time of Log: Sunday, 04/21/2019, 22:21 PM
+NODE COMMAND ACTION: node spotify-this / hello
+Song Title: Hello Pilla Hello
+Artist(s): Shekar Chandra
+Link: https://api.spotify.com/v1/tracks/2LTmU9XaAoPPZmEq4H30SU
+Album: Parichayam (Original Motion Picture Soundtrack)
+_________________________________________
+Time of Log: Sunday, 04/21/2019, 22:21 PM
+NODE COMMAND ACTION: node spotify-this / hello
+Song Title: Hello Hello
+Artist(s): D. Imman
+Link: https://api.spotify.com/v1/tracks/4ElMEYwNOIy7gJaE0wtV0G
+Album: Challenge (Original Motion Picture Soundtrack)
+_________________________________________
+Time of Log: Sunday, 04/21/2019, 22:21 PM
+NODE COMMAND ACTION: node spotify-this / hello
+Song Title: Hello Mister
+Artist(s): D. Imman
+Link: https://api.spotify.com/v1/tracks/727G6fcONz12g1OprjPljK
+Album: Kotikokkadu (Original Motion Picture Soundtrack)
+_________________________________________
