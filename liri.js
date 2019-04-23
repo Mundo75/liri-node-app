@@ -130,7 +130,7 @@ function getSong(songName) {
 
     
 
-    if (!songName) {
+    if (!songName || songName === undefined) {
         songName = "The Sign ace of base";
     };
     spotify.search({type: "track", query: songName, limit: 10}, function(err, data) {

@@ -1,37 +1,159 @@
 
+==================MOVIE LOG ENTRY================
+Time of Log: Monday, 04/22/2019, 20:16 PM
+NODE COMMAND ACTION: node movie-this / top gun
+Title: Top Gun
+Year: 1986
+IMDB Rating: PG
+Rotten Tomatoes Rating: 54%
+Origin Country: USA
+Language: English
+
+Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+
+Actors: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+________________________________________________________________________________
 ==================SPOTIFY LOG ENTRY================
-Time of Log: Sunday, 04/21/2019, 22:21 PM
-NODE COMMAND ACTION: node spotify-this / hello
-Song Title: Hello
-Artist(s): Various Artists
-Link: https://api.spotify.com/v1/tracks/3cpdOEzOQHHYClPyCLc1Y5
-Album: Pyaar Prema Kaadhal (Original Motion Picture Soundtrack)
+Time of Log: Monday, 04/22/2019, 20:17 PM
+NODE COMMAND ACTION: node spotify-this / creeping death
+Song Title: Creeping Death (Remastered)
+Artist(s): Metallica
+Link: https://api.spotify.com/v1/tracks/4q9QVIaLqjbcoqeCfM2zan
+Album: Ride The Lightning (Deluxe Remaster)
 _________________________________________
-Time of Log: Sunday, 04/21/2019, 22:21 PM
-NODE COMMAND ACTION: node spotify-this / hello
-Song Title: Hello Hello
-Artist(s): D. Imman
-Link: https://api.spotify.com/v1/tracks/6LXu7ZD3tF44X9VhoZaQjR
-Album: Valiyavan (Original Motion Picture Soundtrack)
+Time of Log: Monday, 04/22/2019, 20:17 PM
+NODE COMMAND ACTION: node spotify-this / creeping death
+Song Title: Creeping Death
+Artist(s): Stone Sour
+Link: https://api.spotify.com/v1/tracks/6onRH7iyBTjrm2GXGrSXUp
+Album: Meanwhile In Burbank...
 _________________________________________
-Time of Log: Sunday, 04/21/2019, 22:21 PM
-NODE COMMAND ACTION: node spotify-this / hello
-Song Title: Hello Pilla Hello
-Artist(s): Shekar Chandra
-Link: https://api.spotify.com/v1/tracks/2LTmU9XaAoPPZmEq4H30SU
-Album: Parichayam (Original Motion Picture Soundtrack)
+Time of Log: Monday, 04/22/2019, 20:17 PM
+NODE COMMAND ACTION: node spotify-this / creeping death
+Song Title: Creeping Death (Remastered)
+Artist(s): Metallica
+Link: https://api.spotify.com/v1/tracks/3qXEqKdzI3MSGB1FlGMBz5
+Album: Ride The Lightning (Remastered)
 _________________________________________
-Time of Log: Sunday, 04/21/2019, 22:21 PM
-NODE COMMAND ACTION: node spotify-this / hello
-Song Title: Hello Hello
-Artist(s): D. Imman
-Link: https://api.spotify.com/v1/tracks/4ElMEYwNOIy7gJaE0wtV0G
-Album: Challenge (Original Motion Picture Soundtrack)
+Time of Log: Monday, 04/22/2019, 20:17 PM
+NODE COMMAND ACTION: node spotify-this / creeping death
+Song Title: Creeping Death (Live)
+Artist(s): Metallica
+Link: https://api.spotify.com/v1/tracks/3H2wWBP6QXJpOmDKkihBiF
+Album: Metallica Through The Never (Music from the Motion Picture)
 _________________________________________
-Time of Log: Sunday, 04/21/2019, 22:21 PM
-NODE COMMAND ACTION: node spotify-this / hello
-Song Title: Hello Mister
-Artist(s): D. Imman
-Link: https://api.spotify.com/v1/tracks/727G6fcONz12g1OprjPljK
-Album: Kotikokkadu (Original Motion Picture Soundtrack)
+Time of Log: Monday, 04/22/2019, 20:17 PM
+NODE COMMAND ACTION: node spotify-this / creeping death
+Song Title: Creeping Death (Live in Mexico City)
+Artist(s): Metallica
+Link: https://api.spotify.com/v1/tracks/091rXbVrcCxRF8jt5oCAzk
+Album: Live S**t: Binge & Purge
+_________________________________________
+==================CONCERT LOG ENTRY================
+Time of Log: Monday, 04/22/2019, 20:18 PM
+NODE COMMAND ACTION: node concert-this / iron maiden
+Lineup: Iron Maiden,Ravenage,The Raven Age
+Arena/Venue: BB&T Center
+City: Sunrise
+Date: 04-22-2019
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:18 PM
+NODE COMMAND ACTION: node concert-this / iron maiden
+Lineup: Iron Maiden,Ravenage,The Raven Age
+Arena/Venue: Lakewood Amphitheatre
+City: Atlanta
+Date: 04-22-2019
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:18 PM
+NODE COMMAND ACTION: node concert-this / iron maiden
+Lineup: Iron Maiden,Ravenage,The Raven Age
+Arena/Venue: PNC Music Pavilion
+City: Charlotte
+Date: 04-22-2019
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:18 PM
+NODE COMMAND ACTION: node concert-this / iron maiden
+Lineup: Iron Maiden,Ravenage,The Raven Age
+Arena/Venue: Jiffy Lube Live
+City: Bristow
+Date: 04-22-2019
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:18 PM
+NODE COMMAND ACTION: node concert-this / iron maiden
+Lineup: Iron Maiden,Ravenage,The Raven Age
+Arena/Venue: Barclays Center
+City: Brooklyn
+Date: 04-22-2019
+_________________________________________
+==================SPOTIFY LOG ENTRY================
+Time of Log: Monday, 04/22/2019, 20:19 PM
+NODE COMMAND ACTION: node spotify-this / 
+Song Title: The Sign
+Artist(s): Ace of Base
+Link: https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:19 PM
+NODE COMMAND ACTION: node spotify-this / 
+Song Title: All That She Wants
+Artist(s): Ace of Base
+Link: https://api.spotify.com/v1/tracks/6kWJvPfC4DgUpRsXKNa9z9
+Album: The Sign (US Album) [Remastered]
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:19 PM
+NODE COMMAND ACTION: node spotify-this / 
+Song Title: Don't Turn Around
+Artist(s): Ace of Base
+Link: https://api.spotify.com/v1/tracks/4SYMibQ93bfzOk6uzkF0dO
+Album: The Sign (US Album) [Remastered]
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:19 PM
+NODE COMMAND ACTION: node spotify-this / 
+Song Title: The Sign
+Artist(s): Ace of Base
+Link: https://api.spotify.com/v1/tracks/3DYVWvPh3kGwPasp7yjahc
+Album: Greatest Hits
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:19 PM
+NODE COMMAND ACTION: node spotify-this / 
+Song Title: Wheel of Fortune
+Artist(s): Ace of Base
+Link: https://api.spotify.com/v1/tracks/08bZOAr9YLpCLL0Jmtsgbi
+Album: The Sign (US Album) [Remastered]
+_________________________________________
+==================SPOTIFY LOG ENTRY================
+Time of Log: Monday, 04/22/2019, 20:20 PM
+NODE COMMAND ACTION: node do-what-it-says / 
+Song Title: I Want It That Way
+Artist(s): Backstreet Boys
+Link: https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:20 PM
+NODE COMMAND ACTION: node do-what-it-says / 
+Song Title: I Want It That Way
+Artist(s): Backstreet Boys
+Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:20 PM
+NODE COMMAND ACTION: node do-what-it-says / 
+Song Title: I Want It That Way
+Artist(s): Tyler and Mark
+Link: https://api.spotify.com/v1/tracks/7k52T0b1v9ktm2gJwlO5yy
+Album: Beautiful Dreams
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:20 PM
+NODE COMMAND ACTION: node do-what-it-says / 
+Song Title: I Want It That Way
+Artist(s): Anthem Lights
+Link: https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+_________________________________________
+Time of Log: Monday, 04/22/2019, 20:20 PM
+NODE COMMAND ACTION: node do-what-it-says / 
+Song Title: I Want It That Way
+Artist(s): Mick Jensen
+Link: https://api.spotify.com/v1/tracks/0ympGdYdVlZ8zo6irdjMvd
+Album: I Want It That Way
 _________________________________________
